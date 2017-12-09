@@ -31,7 +31,7 @@ const colors = {
       },
     },
   },
-  BKN: {
+  BRO: {
     fullName: 'Brooklyn Nets',
     mainColor: {
       hex: '#010101',
@@ -429,7 +429,7 @@ const colors = {
       white: pureWhite,
     },
   },
-  OKC: {
+  OKL: {
     fullName: 'Oklahoma City Thunder',
     mainColor: {
       hex: '#007dc3',
