@@ -1,6 +1,6 @@
-import R from 'ramda';
-
 import NbaColors from './colors';
+
+const R = require('ramda');
 
 const Team = teamAbbreviation => ({
   toUpperCase: () => Team(R.toUpper(teamAbbreviation)),
